@@ -1,4 +1,4 @@
-# Messaging App - React + Supabase + ImageKit.io
+# Messaging App - Paused project
 
 A modern real-time messaging application built with React, Supabase for backend/database, and ImageKit.io for media handling.
 
